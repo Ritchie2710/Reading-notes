@@ -1,5 +1,6 @@
 #Summary 
 
+#Repository or Repo
 *When creating a new project on your machine using git, you'll first create a new repository 'repo'. A repository contains all of your project's files and each file's revision history.
 *You can own repositories individually, or you can share ownership of repositories with other people.
 
