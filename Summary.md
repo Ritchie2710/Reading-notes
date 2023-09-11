@@ -3,7 +3,13 @@
 # Headings 
 
 there are lots of different types of headers in Github most common are Heading level 1, level 2 and level 3 
-* Heading level 1 is one # after a word
+* Heading level 1 is one # after a word #up
+* Heading level 2 is two ## after a word ##down
+* Heading level 3 is three ### after a word ###left
+
+* there are actually 6 levels with the last one ending with 6 ######
+
+* 
 # Style typing 
 * Bold **LEARNING** typing on a mac like myself  command B is the way to bold a text there are other ways to do it you want to be made Bold put two stars ** ** or you can put __ __ either side of the words or sentence 
   
