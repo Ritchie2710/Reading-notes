@@ -22,6 +22,6 @@ watch
 
 I like to keep fit when i can and get out and about walking as i use to teach DofE.
 
-[My site](/README.md)
+[Home page](/README.md)
 
 [Day 2](day2.md)
