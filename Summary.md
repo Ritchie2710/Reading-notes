@@ -3,9 +3,12 @@
 # Headings 
 
 there are lots of different types of headers in Github most common are Heading level 1, level 2 and level 3 
-* Heading level 1 is one # after a word #up.
-* Heading level 2 is two ## after a word ##down.
-* Heading level 3 is three ### after a word ###left.
+* Heading level 1 is one # after a word
+#up
+* Heading level 2 is two ## after a word
+##down
+* Heading level 3 is three ### after a word
+###left
 
 * there are actually 6 levels with the last one ending with 6 ######.
 
