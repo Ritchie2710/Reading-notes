@@ -24,6 +24,11 @@ there are lots of different types of headers in Github most common are Heading l
 
 #List
 * to make a list its quite easy most common ways to have a list is using one of these 3. *  -  or a +.
-* for exmaple 
+* what
+* where
+* when
+* why
+
+ 
 
 [Home](README.md)
