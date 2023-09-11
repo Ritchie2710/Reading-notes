@@ -10,7 +10,7 @@ ask for help on things that i don't understand
 
 
 
-**I am Ritchie 
+__I am Ritchie 
 
 I was a Sports teacher for 15 years I use to play semi pro rugby, which i had to retire due to kidney injuries which turned turned in to kidney failure. I had a double transplate 4 years ago which changed my life apart from kidney failure i had diabeties tupe 1 which has no gone as i had a kidney and a pancreas transplant. 
 
