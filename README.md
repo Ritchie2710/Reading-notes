@@ -24,4 +24,4 @@ I like to keep fit when i can and get out and about walking as i use to teach Do
 
 [My site](/README.md)
 
-:EMOJICODE:
+[Day 2](day2.md)
