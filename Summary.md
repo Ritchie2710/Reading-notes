@@ -1,5 +1,14 @@
 # Summary 
 
+## Whats is Markdown
+*Markdown is an easy to read, easy to write syntax for formatting plain text. Markdown is now one of the world’s most popular markup languages.
+
+## why we use Markdown 
+*Markdown can be used for everything
+*Its portable can be used and opened in basically any application
+*it is future proof even if the program inthe future ends you will be able to still read your markdown formatted text
+*
+
 ## Repository or Repo
 
 *When creating a new project on your machine using git, you'll first create a new repository 'repo'. A repository contains all of your project's files and each file's revision history.
