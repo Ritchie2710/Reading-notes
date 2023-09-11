@@ -22,6 +22,6 @@ watch
 
 I like to keep fit when i can and get out and about walking as i use to teach DofE.
 
-[(https://ritchie2710.github.io/Reading-notes/)]
+https://ritchie2710.github.io/Reading-notes/
 
 Theme: Leap Day
