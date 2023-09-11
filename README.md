@@ -24,4 +24,4 @@ I like to keep fit when i can and get out and about walking as i use to teach Do
 
 [https://ritchie2710.github.io/Reading-notes/]
 
-Theme:Leap Day
+Theme: Leap Day
