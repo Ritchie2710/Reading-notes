@@ -14,6 +14,14 @@ ask for help on things that i don't understand
 
 I was a Sports teacher for 15 years I use to play semi pro rugby, which i had to retire due to kidney injuries which turned turned in to kidney failure. I had a double transplate 4 years ago which changed my life apart from kidney failure i had diabeties tupe 1 which has no gone as i had a kidney and a pancreas transplant. 
 
-In my spare time i like to watch sports, movies, Lego is a coping mechanism for my adhd and autism. I like to keep fit when i can and get out and about walking as i use to teach DofE.
+In my spare time i like to 
+watch 
+*sports
+*movies
+*Lego is a coping mechanism for my adhd and autism. 
 
-https://ritchie2710.github.io/Reading-notes/
+I like to keep fit when i can and get out and about walking as i use to teach DofE.
+
+[https://ritchie2710.github.io/Reading-notes/]
+
+
