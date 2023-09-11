@@ -1,5 +1,16 @@
 ##Summary 
 
+*When creating a new project on your machine using git, you'll first create a new repository 'repo'. 
+*You can own repositories individually, or you can share ownership of repositories with other people.
+
+
+
+#Read.me file
+*A README is often the first item someone will see when visiting a repository. README files include information on: 
+*What the project does. 
+*Why the project is useful. 
+*How users can get started with the project.
+
 # Headings 
 
 there are lots of different types of headers in Github most common are Heading level 1, level 2 and level 3 
