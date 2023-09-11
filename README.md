@@ -16,9 +16,9 @@ I was a Sports teacher for 15 years I use to play semi pro rugby, which i had to
 
 In my spare time i like to 
 watch 
-*sports
-*movies
-*Lego is a coping mechanism for my adhd and autism. 
++sports
++movies
++Lego is a coping mechanism for my adhd and autism. 
 
 I like to keep fit when i can and get out and about walking as i use to teach DofE.
 
